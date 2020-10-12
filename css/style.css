@@ -547,6 +547,7 @@ transform: translate(-50%,-50%);
 
 /* icons */
 .icons{
+    margin:50px 0;
     display:grid;
     grid-template-columns: auto auto auto auto auto;
     margin-top: 100px;
@@ -567,6 +568,7 @@ transform: translate(-50%,-50%);
 /* section  footer*/
 
 footer{
+   margin-top:40px;
     height: 50vh;
     background: black;
     color: blanchedalmond;
